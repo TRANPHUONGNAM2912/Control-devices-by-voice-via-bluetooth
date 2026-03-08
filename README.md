@@ -1,4 +1,4 @@
-# Điều khiển các thiết bị điện bằng giọng nói thông qua Bluetooth
+# Điều khiển các thiết bị điện bằng giọng nói thông qua Bluetooth.
 ## Nội dung
 - Thiết kế mạch trên Altium  
 - Điều khiển các thiết bị điện như đèn, quạt, máy bơm, trên App hoặc nút nhấn trên mạch  
